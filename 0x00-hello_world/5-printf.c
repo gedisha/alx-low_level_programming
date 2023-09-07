@@ -4,7 +4,7 @@
  *
  * description - Write a C program that prints exactly
  *
- * return: 0
+ * return: always 0 (Success)
  */
 int main(void)
 	{
