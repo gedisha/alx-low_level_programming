@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - 4-puts.c
- * *description - Write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line
+ * *description - Write a C program that prints exactly
  * Return: 0
  */
 int main(void)
