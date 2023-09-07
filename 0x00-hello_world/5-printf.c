@@ -2,7 +2,8 @@
 /**
  * main - this is c using printf
  * description - Write a C program that prints exactly
- * return: o
+ * 
+ * return: Always 0 (Success)
  */
 int main(void)
 	{
