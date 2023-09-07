@@ -1,0 +1,3 @@
+#iii#!#!/bin/bash
+gcciiggcc -E $CFILE -o c
+
