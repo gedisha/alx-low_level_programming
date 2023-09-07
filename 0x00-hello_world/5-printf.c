@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - this is c using printf
+ * description - Write a C program that prints exactly
  * return: o
  */
 int main(void)
