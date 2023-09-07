@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main - this is c using printf
+ * main - 5-printf.c
  * description - Write a C program that prints exactly
- * 
- * return: Always 0 (Success)
+ * return: 0
  */
 int main(void)
 	{
