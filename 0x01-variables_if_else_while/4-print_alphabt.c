@@ -2,22 +2,23 @@
 
 
 /**
- *  main - prints the alphabet in lower and upper case
+ * main - program that prints the alphabet in lowercase and upper case
  *
- *  Return: Always 0
+ * Return: Always 0.
  */
 
 int main(void)
 {
 	char letter;
 
-	for
-		(letter = 'a'; letter <= 'z'; letter++)
-			putchar(letter);
+	for (letter = 'a'; letter <= 'z'; letter++)
 
-	for
-		(letter = 'A'; letter <= 'Z'; letter++)
-			putchar(letter);
+	{
+	if (letter != 'e' && letter != 'q')
+	putchar(letter);
+	}
+
 	putchar('\n');
+
 	return (0);
 }
